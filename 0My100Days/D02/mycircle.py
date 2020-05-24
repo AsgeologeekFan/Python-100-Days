@@ -7,3 +7,4 @@ perimeter = 2 * math.pi * radius
 area = math.pi * radius * radius
 print('L: %.2f' % perimeter)
 print('Area: %.2f' % area)
+print('Area: %.2f' % area)
